@@ -56,9 +56,9 @@ Window10、python3
 ​	原理：
 
 ​	条件概率公式：
-![](https://latex.codecogs.com/svg.image?P(A|B)=\frac{P(AB)}{P(B)}" title="P(A|B)=\frac{P(AB)}{P(B)})
+![](https://latex.codecogs.com/svg.image?P(A|B)=\frac{P(AB)}{P(B)})
 ​	通过 P(A|B) 求 P(B|A) :
-![](https://latex.codecogs.com/svg.image?P(B|A)=\frac{P(A|B)P(B)}{P(A)}" title="P(B|A)=\frac{P(A|B)P(B)}{P(A)})
+![](https://latex.codecogs.com/svg.image?P(B|A)=\frac{P(A|B)P(B)}{P(A)})
 ​	对于给定测试集，计算每个类别的 P(B|A)，然后取最大的作为预	测类别，由于 P(A) 是固定的，不影响结果比大小，所以只需要计算先验概率和条件概率。
 
 ​	对于预测结果，使用精准率（precision）、召回率（recall）和F1值进行评价。精准率指预测为类别A中预测正确的概率，召回率指真实类别为A中预测正确的概率。
