@@ -1,0 +1,1 @@
+微软正式发布PowerShell 7.1：稳定性大幅提升 微软商店可下载。微软日前正式发布了PowerShell7.1，该版本在3月发布的PowerShell7.0和近期发布的.NET5的基础上进行了大量更新和改进。PowerShell7.1是一个开源、跨平台（Windows，macOS和Linux）的PowerShell版本，旨在管理

@@ -1,0 +1,1 @@
+Firefox 83将默认启用Warp更新：大幅提升响应时间和加载速度。今年9月，Mozilla的JavaScript引擎团队SpiderMonkey完成了名为&quot;Warp&quot;的更新，针对JIT(Just-In-Time)编译器代码进行优化，大幅提升了浏览器的响应速度。而在下周发布的Firefox83.0版本中，将默认启用Warp优化。War

@@ -1,0 +1,1 @@
+微软：在Apple Silicon平台上的Office初次启动需多花20秒。本周早些时候，苹果发布了基于M1自研ARM芯片的三款AppleSiliconMac设备。由于硬件平台的变化，该公司也为macOS引入了全新的Rosetta2翻译层，以弥补初期原生应用不足的生态短板。与此同时，微软也积极行动，向测试通道推送了兼容AppleSilicon

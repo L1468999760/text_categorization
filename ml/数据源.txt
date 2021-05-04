@@ -1,0 +1,7 @@
+﻿新浪滚动新闻 https://news.sina.com.cn/roll/#pageid=153&lid=2517&k=&num=50&page=  社会、娱乐、体育（每个类别训练集1500，测试集1000）
+
+和讯汽车滚动新闻 http://auto.hexun.com/autoscroll/index-12531.html 汽车（训练集5000，测试集2000）
+
+校园新闻网 https://newedu.jxnews.com.cn/ 校园（训练集2000，测试集1000）
+
+cnews 财经、房产、科技、时政、游戏（训练集5000，测试集1000）

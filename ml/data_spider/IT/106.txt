@@ -1,0 +1,1 @@
+起步卑微的JavaScript：是如何成为大热编程语言？。JavaScript的卑微起步始于1995年，是由当时在Netscape通信公司工作的BrendanEich在短短10天内创建的。从那时起，JavaScript已经走过了漫长的道路，从一个让网站变得漂亮的工具变成了一种严肃的编程语言。在其早期，JavaScript被认为是一

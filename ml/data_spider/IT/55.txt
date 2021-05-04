@@ -1,0 +1,1 @@
+64岁的Python之父表示退休后太无聊 正式加入微软。根据TIOBE公布的2020年11月编程语言排行版，Python首次超过了Java成为全球第二受欢迎的编程语言。近些年，随着人工智能的飞速发展，Python已成为最受欢迎的编程语言之一。作为Python的创建者，GuidovanRossum一直致力于Python社

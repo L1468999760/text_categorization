@@ -1,0 +1,1 @@
+微软今天正式终止Win7嵌入式系统支持 花钱可买三年补丁。在年初正式停止支持Windows7系统（简称Win7）扩展支持之后，微软日前宣布另一个版本的Win7——WindowsEmbeddedStandard7也将在10月13日停止支持。微软表示：“WindowsEmbeddedStandard7系统于2020年1
