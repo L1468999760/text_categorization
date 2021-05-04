@@ -56,18 +56,16 @@ Window10、python3
 ​	原理：
 
 ​	条件概率公式：
-$$
-P(A|B)=\frac{P(AB)}{P(B)}
-$$
+![](https://latex.codecogs.com/svg.image?P(A|B)=\frac{P(AB)}{P(B)}" title="P(A|B)=\frac{P(AB)}{P(B)})
 ​	通过 P(A|B) 求 P(B|A) :
-$$
-P(B|A)=\frac{P(A|B)P(B)}{P(A)}
-$$
+![](https://latex.codecogs.com/svg.image?P(B|A)=\frac{P(A|B)P(B)}{P(A)}" title="P(B|A)=\frac{P(A|B)P(B)}{P(A)})
 ​	对于给定测试集，计算每个类别的 P(B|A)，然后取最大的作为预	测类别，由于 P(A) 是固定的，不影响结果比大小，所以只需要计算先验概率和条件概率。
 
 ​	对于预测结果，使用精准率（precision）、召回率（recall）和F1值进行评价。精准率指预测为类别A中预测正确的概率，召回率指真实类别为A中预测正确的概率。
 
 ​	通常一个类别的召回率会影响其他类别的精准率，且对于同一类别，当其精准率较高时，通常召回率偏低。所以需要使用一个综合评价指标来衡量结果，F1是精准率和召回率的调和平均，值越大，预测效果越好。
+
+实验结果：
 
 ![image](https://raw.githubusercontent.com/L1468999760/text_categorization/main/pic/Bayes1.png)
 
@@ -77,13 +75,17 @@ $$
 
 ④ 支持向量机算法
 
+实验结果：
+
 ![image](https://raw.githubusercontent.com/L1468999760/text_categorization/main/pic/SVM1.png)
 
 ![image](https://raw.githubusercontent.com/L1468999760/text_categorization/main/pic/SVM2.png)
 
 ## 项目结构
 
-ml（分类算法）——data（训练集）
+ml（分类算法）
+
+​							——data（训练集）
 
 ​							——data_spider（爬虫下来的训练数据存放位置）
 
@@ -115,7 +117,8 @@ ml（分类算法）——data（训练集）
 
 ​							——数据源.txt（数据源说明）
 
-spider（爬虫） ——car_data.py（汽车类新闻）
+spider（爬虫） 
+​							——car_data.py（汽车类新闻）
 
 ​							——IT_data.py（IT类新闻）
 
