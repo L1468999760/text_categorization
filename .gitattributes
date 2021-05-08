@@ -1,3 +1,2 @@
 *.py linguist-language=Python
-*.dat linguist-language=Python
-*.txt linguist-language=Python
+*.md linguist-language=Python
